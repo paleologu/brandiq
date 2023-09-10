@@ -12,6 +12,9 @@
 .flickity-button {
 	background-image: url("../img/growthiq/background.jpeg")!important;
 	background-size:cover!important;
+    border-style: solid;
+    border-color: darkgrey;
+    border-radius: 10px;
 }
 
 
@@ -31,6 +34,21 @@
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: #198754;
     --bs-btn-disabled-border-color: #198754;
-	background-image: url("../img/growthiq/background.jpeg");
-	background-size:cover;
-	}
+    background-image: url("../img/growthiq/background.jpeg");
+    background-size:cover;
+}
+
+
+
+.form-check.form-check-dark .form-check-input:checked {
+    background-color: darkgrey;
+}
+
+
+.text-primary {
+    color: darkgreen!important;
+}
+
+.border-primary {
+    color: #f5c070!important;
+}
