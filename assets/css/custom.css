@@ -52,3 +52,16 @@
 .border-primary {
     color: #f5c070!important;
 }
+
+
+.text-primary-light {
+    color: green!important;
+}
+
+.dropdown-header {
+    color: darkgreen!important;
+}
+
+a.h6 {
+    color:darkgreen!important;
+}
