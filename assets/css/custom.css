@@ -3,6 +3,70 @@
 	background-size:cover;
 }
 
+<<<<<<< HEAD
 .click{
 	cursor: pointer;
+=======
+
+.text-gray-600 {
+	color:white!important;
+}
+
+
+.flickity-button {
+	background-image: url("../img/growthiq/background.jpeg")!important;
+	background-size:cover!important;
+    border-style: solid;
+    border-color: darkgrey;
+    border-radius: 10px;
+}
+
+
+
+.btn-primary-green {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #198754;
+    --bs-btn-border-color: #198754;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: green;
+    --bs-btn-hover-border-color: #5246bb;
+    --bs-btn-focus-shadow-rgb: 125,113,237;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #5246bb;
+    --bs-btn-active-border-color: #4d42b0;
+    --bs-btn-active-shadow: 0 0 6px rgba(27,22,66,.03),0 14px 24px rgba(27,22,66,.06);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #198754;
+    --bs-btn-disabled-border-color: #198754;
+    background-image: url("../img/growthiq/background.jpeg");
+    background-size:cover;
+}
+
+
+
+.form-check.form-check-dark .form-check-input:checked {
+    background-color: darkgrey;
+}
+
+
+.text-primary {
+    color: darkgreen!important;
+}
+
+.border-primary {
+    color: #f5c070!important;
+}
+
+
+.text-primary-light {
+    color: green!important;
+}
+
+.dropdown-header {
+    color: darkgreen!important;
+}
+
+a.h6 {
+    color:darkgreen!important;
+>>>>>>> c16fc627d0837242e0c464af383f719d15c4a074
 }
