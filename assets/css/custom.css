@@ -12,9 +12,9 @@
 .flickity-button {
 	background-image: url("../img/growthiq/background.jpeg")!important;
 	background-size:cover!important;
-    border-style: solid;
-    border-color: darkgrey;
-    border-radius: 10px;
+    border-style: solid!important;
+    border-color: darkgrey!important;
+    border-radius: 10px!important;
 }
 
 
