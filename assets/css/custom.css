@@ -2,3 +2,7 @@
 	background-image: url("../img/growthiq/background.jpeg");
 	background-size:cover;
 }
+
+.click{
+	cursor: pointer;
+}
