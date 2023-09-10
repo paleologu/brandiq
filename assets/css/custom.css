@@ -2,3 +2,35 @@
 	background-image: url("../img/growthiq/background.jpeg");
 	background-size:cover;
 }
+
+
+.text-gray-600 {
+	color:white!important;
+}
+
+
+.flickity-button {
+	background-image: url("../img/growthiq/background.jpeg")!important;
+	background-size:cover!important;
+}
+
+
+
+.btn-primary-green {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #198754;
+    --bs-btn-border-color: #198754;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: green;
+    --bs-btn-hover-border-color: #5246bb;
+    --bs-btn-focus-shadow-rgb: 125,113,237;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #5246bb;
+    --bs-btn-active-border-color: #4d42b0;
+    --bs-btn-active-shadow: 0 0 6px rgba(27,22,66,.03),0 14px 24px rgba(27,22,66,.06);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #198754;
+    --bs-btn-disabled-border-color: #198754;
+	background-image: url("../img/growthiq/background.jpeg");
+	background-size:cover;
+	}
