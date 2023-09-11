@@ -64,3 +64,13 @@
 a.h6 {
     color:darkgreen!important;
 }
+
+
+.text-center-mobile {
+
+}
+@media (max-width: 790px) {
+    .text-center-mobile {
+        text-align: center!important;
+    }
+}
