@@ -3,6 +3,13 @@
 	background-size:cover;
 }
 
+.bg-green-hex {
+    background-color:#5a7f6e;
+}
+.text-green {
+    color:#5a7f6e;
+}
+
 .text-gray-600 {
 	color:white!important;
 }
