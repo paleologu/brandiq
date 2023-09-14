@@ -1,6 +1,10 @@
 .bg-green {
-	background-image: url("../img/growthiq/background.jpeg");
-	background-size:cover;
+	background-image: url("../img/growthiq/background.jpeg")!important;
+	background-size:cover!important;
+}
+
+.bg-white{
+    background-color: whitesmoke;
 }
 
 .bg-green-hex {
