@@ -182,3 +182,15 @@ background-image: linear-gradient(90deg,#f5c070,#f5c070);
 .btn-white:hover {
   color:#f5c070;
 }
+
+
+.display-69{
+    font-size: 5.125rem;
+    font-family: 'DM Serif Display'!important;
+    font-weight: 500!important;
+    letter-spacing: -.01em!important;
+}
+
+.navbar{
+    --bs-navbar-brand-margin-end: 0rem!important;
+}
