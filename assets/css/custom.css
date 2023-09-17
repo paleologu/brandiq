@@ -186,7 +186,7 @@ background-image: linear-gradient(90deg,#648d7b,#648d7b);
 
 .display-69{
     font-size: 5.125rem;
-    font-family: 'DM Serif Display'!important;
+    font-family: 'DM Sans'!important;
     font-weight: 500!important;
     letter-spacing: -.01em!important;
 }
@@ -202,4 +202,13 @@ background-image: linear-gradient(90deg,#648d7b,#648d7b);
 
 .latime{
     width: 80vw;
+}
+
+@media only screen and (max-width: 600px){
+    telef{
+    font-size: 2rem!important;
+    font-family: 'DM Sans'!important;
+    font-weight: 500!important;
+    letter-spacing: -.01em!important;
+    }
 }
